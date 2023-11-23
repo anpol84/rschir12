@@ -1,0 +1,41 @@
+2023/10/19 21:26:29 Сервер запущен на порту 8081
+2023/10/19 21:27:44 Сервер запущен на порту 8081
+2023/10/19 21:28:43 Сервер запущен на порту 8081
+2023/10/19 21:29:28 Сервер запущен на порту 8081
+2023/10/19 21:30:22 Сервер запущен на порту 8081
+2023/10/19 21:30:56 Сервер запущен на порту 8081
+2023/10/19 21:30:56 ssss
+2023/10/19 21:31:23 some
+2023/10/19 21:31:23 Сервер запущен на порту 8081
+2023/10/19 21:31:46 sad
+2023/10/19 21:31:46 some
+2023/10/19 21:31:46 Handled data: {afd} Response: server afd
+2023/10/19 21:31:54 Retrieved data: map[query:afd response:server afd]
+2023/10/19 21:37:19 Сервер запущен на порту 8081
+2023/10/19 21:37:28 sad
+2023/10/19 21:37:28 some
+2023/10/19 21:37:28 Handled data: {afd} Response: server afd
+2023/10/19 21:37:44 Retrieved data: map[query:afd response:server afd]
+2023/10/19 21:37:58 Retrieved data: map[query:afd response:server afd]
+2023/10/19 21:38:08 Retrieved data: map[query:afd response:server afd]
+2023/10/19 21:41:55 Сервер запущен на порту 8081
+2023/10/19 21:42:12 sad
+2023/10/19 21:42:12 some
+2023/10/19 21:42:12 Handled data: {afsdd} Response: server afsdd
+2023/10/19 21:44:11 Retrieved data: map[query:afsdd response:server afsdd]
+2023/10/19 21:44:21 Retrieved data: map[query:afsdd response:server afsdd]
+2023/10/19 21:44:44 Retrieved data: map[query:afsdd response:server afsdd]
+2023/10/19 21:50:02 Сервер запущен на порту 8081
+2023/10/19 21:50:09 sad
+2023/10/19 21:50:09 some
+2023/10/19 21:50:09 Handled data: {afsdd} Response: server afsdd
+2023/10/19 21:50:17 sad
+2023/10/19 21:50:17 some
+2023/10/19 21:50:17 Handled data: {13234} Response: server 13234
+2023/10/19 21:50:27 Retrieved data: map[query:13234 response:server 13234]
+2023/10/19 21:50:37 Retrieved data: map[query:13234 response:server 13234]
+2023/10/20 16:03:23 Сервер запущен на порту 8081
+2023/10/20 16:03:47 sad
+2023/10/20 16:03:47 some
+2023/10/20 16:03:47 Handled data: {1234} Response: server 1234
+2023/10/20 16:03:55 Retrieved data: map[query:1234 response:server 1234]
