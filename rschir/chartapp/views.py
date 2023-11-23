@@ -68,3 +68,11 @@ def chartApi(request, id=0):
         return JsonResponse("Deleted Successfully", safe=False)
 
 
+@csrf_exempt
+def echoApi(request):
+    if request.method == "GET":
+        name = request.GET.get('name', None)
+        if name is not None:
+            return JsonResponse("Hello, " + str(name), safe=False)
+        return JsonResponse("Name is not defined", safe=False)
+
